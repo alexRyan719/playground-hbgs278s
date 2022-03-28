@@ -56,7 +56,7 @@ def test_control_flow():
   print(control_flow(0))
   print(control_flow(-1000))
 
-# Loops are very useful when needing to do the same action 
+/* Loops are very useful when needing to do the same action 
 # multiple time (iterations). For loops are usually better when 
 # the amount of iterations is known and while loops are usually
 # better when the number of iterations is not known. 
@@ -64,7 +64,7 @@ def test_control_flow():
 # However, you can pretty much do any process (algorithm) with 
 # either style of loop. You can also use recursion.
 
-# Iterate through every char in a string
+*/ Iterate through every char in a string
 test_str = "Hello World!"
 for char in test_str:
   print(char)
