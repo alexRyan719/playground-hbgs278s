@@ -1,11 +1,33 @@
-# Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+def hello_world():
+    #!/usr/bin/env python3
 
-```python runnable
-print('Hello World!')
-```
+    print('Hello World!')
 
-# Advanced usage
+    # Formatting is a major part of problem solving with code. String
+    # manipulation can be done a few ways in python
+    print("Hello! " * 3)
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+    # Slicing is where you target or work with only parts of a string.
+    # To do this, use square brackets ([]). Within the square 
+    # brackets you can set the start, stop, and step. Or in other 
+    # words, the starting point, ending point, and how much to count # by
+    test_string = "Hello World!"
+    print(test_string[1:6])
+
+    # Print every other letter
+    print(test_string[::2])
+
+    # Reverse the string
+    print(test_string[::-1])
+
+    # Print single char at a certain index 
+    print(test_string[0])
+
+    # This also works backwards with a negative index
+    print(test_string[-1])
+    print(test_string[-5])
+
+    # Set the start point as the fifth character from the end
+    print(test_string[-5:])
+    print(test_string[-10:-3])
