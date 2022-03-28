@@ -56,6 +56,48 @@ def test_control_flow():
   print(control_flow(0))
   print(control_flow(-1000))
 
+# Loops are very useful when needing to do the same action 
+# multiple time (iterations). For loops are usually better when 
+# the amount of iterations is known and while loops are usually
+# better when the number of iterations is not known. 
+#
+# However, you can pretty much do any process (algorithm) with 
+# either style of loop. You can also use recursion.
+
+# Iterate through every char in a string
+test_str = "Hello World!"
+for char in test_str:
+  print(char)
+
+# Indexes are used to keep track of what we're working with for
+# each iteration. With while loops, you have to manually change
+# the index. Be careful, infinite loops are created when a 
+# terminating condition is never met. IE the index never changes,
+# a count never changes, or whatever condition we decide for the 
+# loop. 
+index = 0
+while index < len(test_str):
+  print(test_str[index])
+  index += 1
+
+# In other languages, there are do while loops. However,
+# Python doesn't use them without some extra effort. 
+
+# To demonstrate recursion, we need to define a function. The 
+# concept is where we have a function that calls itself until
+# a condition is met. It's also easy to write infinite loops
+# with recursion
+def recurse_this(n):
+  if n == -1:
+    print(test_str[10 - n])
+    print("This is the base case!")
+  else:
+    print(test_str[10 - n])
+    #print("iteration: " + str(n))
+    recurse_this(n-1)
+
+recurse_this(len(test_str))
+
 def main():
     test_control_flow()
 
