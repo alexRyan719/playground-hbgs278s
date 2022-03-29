@@ -50,16 +50,16 @@
 # Testing Control Flow
 
     def test_control_flow():
-    print(control_flow(1000000))
-    print(control_flow(95))
-    print(control_flow(90))
-    print(control_flow(89))
-    print(control_flow(85))
-    print(control_flow(75))
-    print(control_flow(65))
-    print(control_flow(59))
-    print(control_flow(0))
-    print(control_flow(-1000))
+        print(control_flow(1000000))
+        print(control_flow(95))
+        print(control_flow(90))
+        print(control_flow(89))
+        print(control_flow(85))
+        print(control_flow(75))
+        print(control_flow(65))
+        print(control_flow(59))
+        print(control_flow(0))
+        print(control_flow(-1000))
 
 # Loops 
 
@@ -95,6 +95,9 @@
         # concept is where we have a function that calls itself until
         # a condition is met. It's also easy to write infinite loops
         # with recursion
+
+# Recursion
+
     def recurse_this(n):
         if n == -1:
             print(test_str[10 - n])
@@ -105,6 +108,9 @@
             recurse_this(n-1)
 
         recurse_this(len(test_str))
+
+
+# Main
 
     def main():
         test_control_flow()
