@@ -1,8 +1,10 @@
 # Hello World
 
     def hello_world():
-        #!/usr/bin/env python3
 
+        # This is the classic "Hello World" program in Python. This will 
+        # print whatever String (array of chars) you have between the single 
+        # quotes ('') or double quotes ("")
         print('Hello World!')
 
         # Formatting is a major part of problem solving with code. String
