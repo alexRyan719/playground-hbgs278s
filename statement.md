@@ -116,7 +116,7 @@
 
     def main():
         test_control_flow()
-        print
+        recurs_this(100)
 
 
     ### DUNDER CHECK ###
