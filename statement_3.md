@@ -1,11 +1,11 @@
-# Primitive Variables
+Primitive Variables
    </p>
-   # Primitive Variables are simple, single value variables used in computing. Think of them as shipping boxes to contain data. You need the right type of shipping
-   # box / container for different types of data. 
+    Primitive Variables are simple, single value variables used in computing. Think of them as shipping boxes to contain data. You need the right type of shipping
+    box / container for different types of data. 
    </p> 
    <p>  
-    # Now, with Python, it's harder to see what type a variable is. Python does not require you to declare the type of variable when declaring Primitive variables 
-    # (as opposed to objects). 
+     Now, with Python, it's harder to see what type a variable is. Python does not require you to declare the type of variable when declaring Primitive variables 
+     (as opposed to objects). 
    </p>
   
    <ul>
