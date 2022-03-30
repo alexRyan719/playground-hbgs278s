@@ -6,6 +6,8 @@ plan:
   statement: statement_2.md
 - title: Primitive Variables
   statement: statement_3.md
+- title: Functions
+  statement: statement_3.5.md
 - title: Control Flow
   statement: statement_4.md
 - title: Loops
