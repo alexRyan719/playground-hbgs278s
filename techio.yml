@@ -5,14 +5,14 @@ plan:
 - title: Comments
   statement: statement_2.md
 - title: Primitive Variables
-  statement: statement.md
-- title: Control Flow
   statement: statement_3.md
-- title: Loops
+- title: Control Flow
   statement: statement_4.md
-- title: Recursion
+- title: Loops
   statement: statement_5.md
-- title: Data Structures
+- title: Recursion
   statement: statement_6.md
-- title: Example Algorithms
+- title: Data Structures
   statement: statement_7.md
+- title: Example Algorithms
+  statement: statement_8.md
