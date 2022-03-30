@@ -2,7 +2,9 @@
 
  ROT13
 
-
+ ROT13 stands for rotation of 13 values. This means that every character / letter in the plain text will be changed / encrypted to a different character 13 values
+ away. 13 is the classic beginning number for a rotation encryption algorithm due to the nature of being able to decrypt the cipher text simply by encrypting the
+ cipher text again with the same ROT13 algorithm. This is also known as Symmetric Encryption
 
 
     def rot13(plain_text):
