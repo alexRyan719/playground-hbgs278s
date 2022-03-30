@@ -4,11 +4,13 @@
     
     # This is a single line comment. Any line that starts with a # will be seen as a comment by the compiler / interpreter / computer. 
     
-    /* This
+    '''
+    This
     is
     a
     multi
     line
-    */ comment
+    comment
+    '''
     
 
