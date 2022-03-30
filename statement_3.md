@@ -6,12 +6,12 @@
     # (as opposed to objects). 
   
   
-    <ul>
-    <li>example_string = "Hello World!"</li>
-    <li>example_int = 5</li>
-    <li>example_float = 10.0</li>
-    <li>example_boolean = True</li>
-    </ul>
+   <ul>
+   <li>example_string = "Hello World!"</li>
+   <li>example_int = 5</li>
+   <li>example_float = 10.0</li>
+   <li>example_boolean = True</li>
+   </ul>
   
 
     # Type of Primitive Variable
