@@ -23,8 +23,8 @@
      
     index = 0
     while index < len(test_str):
-    print(test_str[index])
-    index += 1
+      print(test_str[index])
+      index += 1
 
    In other languages, there are do while loops. However,
    Python doesn't use them without some extra effort. 
