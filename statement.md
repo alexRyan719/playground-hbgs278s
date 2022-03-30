@@ -1,6 +1,5 @@
 # Hello World
 
-    @[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
 
    This is the classic "Hello World" program in Python. This will 
    print whatever String (array of chars) you have between the single 
