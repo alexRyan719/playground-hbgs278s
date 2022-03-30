@@ -9,7 +9,7 @@
    
   
    <ul>
-   <li>Strings = "Hello World!" / "This is also a string" / Any group of characters contained in single ('') or double ("") quotes</li>
+   <li>Strings / Arrays of Chars = "Hello World!" / "This is also a string" / Any group of characters contained in single ('') or double ("") quotes</li>
    <li>Chars / Characters = 'a', 'b', 'Z', '!' / Any single letter or character. Can be in single or double quotes (for Python, not necessarily other languages)
    <li>Ints / Integers = 5 / 4 / 5,000,000 / any whole number</li>
    <li>Float / Floating Point = 10.0</li>
