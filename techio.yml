@@ -1,4 +1,18 @@
 title: Beginner Python Concepts
 plan:
-- title: Python Snippet
+- title: Hello World
   statement: statement.md
+- title: Comments
+  statement: statement_2.md
+- title: Primitive Variables
+  statement: statement.md
+- title: Control Flow
+  statement: statement_3.md
+- title: Loops
+  statement: statement_4.md
+- title: Recursion
+  statement: statement_5.md
+- title: Data Structures
+  statement: statement_6.md
+- title: Example Algorithms
+  statement: statement_7.md
