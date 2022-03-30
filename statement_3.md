@@ -1,20 +1,24 @@
-Primitive Variables
-   </p>
-    Primitive Variables are simple, single value variables used in computing. Think of them as shipping boxes to contain data. You need the right type of shipping
-    box / container for different types of data. 
-   </p> 
-   <p>  
-     Now, with Python, it's harder to see what type a variable is. Python does not require you to declare the type of variable when declaring Primitive variables 
-     (as opposed to objects). 
-   </p>
+# Primitive Variables
+   
+   Primitive Variables are simple, single value variables used in computing. Think of them as shipping boxes to contain data. You need the right type of shipping
+   box / container for different types of data. 
+    
+    
+   Now, with Python, it's harder to see what type a variable is. Python does not require you to declare the type of variable when declaring Primitive variables 
+   (as opposed to objects). 
+   
   
    <ul>
-   <li>example_string = "Hello World!"</li>
-   <li>example_int = 5</li>
-   <li>example_float = 10.0</li>
-   <li>example_boolean = True</li>
+   <li>Strings = "Hello World!" / "This is also a string" / Any group of characters contained in single ('') or double ("") quotes</li>
+   <li>Ints / Integers = 5 / 4 / 5,000,000 / any whole number</li>
+   <li>Float / Floating Point = 10.0</li>
+   <li>Bool / Boolean = True / False</li>
    </ul>
   
+# To see what type your variable is, use the built it type() function.
 
-    # Type of Primitive Variable
+    example_string = "Hello World!"
+    example_int = 5
+    example_float = 10.0
+    example_boolean = True
   
