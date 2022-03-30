@@ -45,3 +45,15 @@
       return cipher_text
 
     print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`"))
+
+  The concept of a circular array is demonstrated with these lines:
+  
+    if new_index > 26:
+        new_index -= 26
+        
+   So, even if the new index is too large to find the corresponding cipher text character, the index is adjusted to create the illusion of a circular array.
+   A better (and more scalable) way to do this would be to use the modulo operator (%) to ensure any number, no matter how large, would be able to yield a 
+   corresponding cipher text character.
+   
+    if new_index > 26:
+        new_index %= 26
