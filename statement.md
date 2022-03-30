@@ -10,13 +10,16 @@
    manipulation can be done a few ways in python
         
         print("Hello! " * 3)
+        
+   For the rest of the examples, let's declare a String variable to use
+
+        test_string = "Hello World, but now our new string!"
 
    Slicing is where you target or work with only parts of a string.
    To do this, use square brackets ([]). Within the square 
    brackets you can set the start, stop, and step. Or in other 
-   words, the starting point, ending point, and how much to count # by
+   words, the starting point, ending point, and how much to count by
         
-        test_string = "Hello World!"
         print(test_string[1:6])
 
    Print every other letter
