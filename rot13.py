@@ -33,4 +33,4 @@ def rot13(plain_text):
     
       return cipher_text
 
-print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`", 14))
+print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`"))
