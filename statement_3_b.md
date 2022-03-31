@@ -6,6 +6,9 @@
   When defining a function, you start with the keyword "def", followed by the name of the function and attached parameters / arguments for the function, and finally a 
   colon (:). Any code that is meant to be contained in the function needs to be indented one indent further than the function declaration line. 
   
+  @[Try out any of the snippets in this here window!]({"stubs": ["functions.py"], "command": "python3 functions.py"})
+
+
     def multply(a, b):
       return a*b
 
