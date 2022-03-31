@@ -30,4 +30,4 @@
     print(type(example_float)
     print(type(example_boolean)
   
-@[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 universe.py"})
+@[Try out any of the snippets in this here window!]({"stubs": ["pv.py"], "command": "python3 pv.py"})
