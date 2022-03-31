@@ -10,7 +10,7 @@ def while_loop(n):
     index += 1
     
 def range_for_loop(n):
-  for num in range(1,n+1,2)
+  for num in range(1,n+1,2):
     print(num)
     
 for_loop(10)
