@@ -6,6 +6,8 @@
  away. 13 is the classic beginning number for a rotation encryption algorithm due to the nature of being able to decrypt the cipher text simply by encrypting the
  cipher text again with the same ROT13 algorithm. This is also known as Symmetric Encryption.
 
+@[Try it out!]({"stubs": ["rot13.py"], "command": "python3 rot13.py"})
+
 
     def rot13(plain_text):
       alphabet_dict  = {
@@ -58,7 +60,7 @@
    13 is the most common value, as it allows for Symmetric Encryption. However, it's fairly simple to change this algorithm to accept any value for the rotation. To
    account for larger values, we need to change the index modification to the modulo style. 
    
-   *Note, this algorithm hasn't been tested yet and may require some slight adjustments
+@[Try it out!]({"stubs": ["rotn.py"], "command": "python3 ront.py"})
    
     def rot13(plain_text, n):
       alphabet_dict  = {
