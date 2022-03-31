@@ -29,6 +29,8 @@
    In other languages, there are do while loops. However,
    Python doesn't use them without some extra effort. 
 
+   You can also use the range() function to set a start, stop, and step for your for loops. This is similar to the start, stop, and step of string slicing.
+
 @[Try em out here!]({"stubs": ["loops.py"], "command": "python3 loops.py"})
 
    
