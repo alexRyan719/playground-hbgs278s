@@ -1,11 +1,11 @@
 test_str = "Hello World!"
 
 def recurse_this(n):
-  if n == -1:
-    print(test_str[10 - n])
+  if n == 1:
+    print(test_str[len(test_str) - n])
     print("This is the base case!")
   else:
-    print(test_str[10 - n])
+    print(test_str[len(test_str) - n])
     #print("iteration: " + str(n))
     recurse_this(n-1)
 
