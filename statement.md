@@ -50,3 +50,8 @@
         
         print(test_string[-5:])
         print(test_string[-10:-3])
+        
+
+@[TOr you can try out any of the snippets in this here other window!]({"stubs": ["universe.py"], "command": "python3 universe.py"})
+
+
