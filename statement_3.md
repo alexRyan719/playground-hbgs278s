@@ -16,7 +16,7 @@
    <li>Bool / Boolean = True / False</li>
    </ul>
   
-# To see what type your variable is, use the built it type() function.
+# To see what type your variable is, use the built-in type() function.
 
     example_string = "Hello World!"
     example_char = 'a'
