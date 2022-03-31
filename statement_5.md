@@ -29,4 +29,6 @@
    In other languages, there are do while loops. However,
    Python doesn't use them without some extra effort. 
 
+@[Try em out here!]({"stubs": ["loops.py"], "command": "python3 loops.py"})
+
    
