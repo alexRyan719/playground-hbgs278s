@@ -36,3 +36,6 @@ def rot13(plain_text, n):
   return cipher_text
 
 print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`", 14))
+print(rot13("Ifmmp xpsme!@#$%^&*()_+-=/\<>?,.~`",-1))
+print(rot13("Hello world!@#$%^&*()_+-=/\<>?,.~`",12))
+print(rot13("Tqxxa iadxp!@#$%^&*()_+-=/\<>?,.~`",14))
