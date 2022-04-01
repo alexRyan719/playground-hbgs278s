@@ -36,3 +36,8 @@
       ,11:'k',12:'l',13:'m',14:'n',15:'o',16:'p',17:'q',18:'r'
       ,19:'s',20:'t',21:'u',22:'v',23:'w',24:'x',25:'y',26:'z'
     }
+
+  Dictionaries are created in a similar way to lists. 
+
+@[Try adding, accessing, and removing elements from this list!]({"stubs": ["dict.py"], "command": "python3 dict.py"})
+
