@@ -2,7 +2,7 @@
 
 # For the second part video of this playground, visit YouTube here: https://www.youtube.com/watch?v=hCZ4EUrBJC4
 
-@[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 universe.py"})
+@[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
 # Hello World
 
