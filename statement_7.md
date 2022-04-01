@@ -13,7 +13,8 @@
     
     example_list_4 = [1, 'b', 3]
 
-  To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. 
+  To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. To sort a list, use the .sort() or 
+  sorted() functions. 
 
 @[Try adding, accessing, and removing elements from this list!]({"stubs": ["list.py"], "command": "python3 list.py"})
 
