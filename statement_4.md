@@ -4,4 +4,6 @@
 
 @[The test cases provided test some of the common "corner cases" you may want to test.]({"stubs": ["control_flow.py"], "command": "python3 control_flow.py"})
 
+
+If and elif statements will execute if the expression equates to True or 1. If the expression evaluates down to any other value, the attached code won't execute. 
     
