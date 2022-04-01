@@ -13,10 +13,13 @@
     
     example_list_4 = [1, 'b', 3]
 
-  To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. To sort a list, use the .sort() or 
-  sorted() functions. 
+  To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. 
 
 @[Try adding, accessing, and removing elements from this list!]({"stubs": ["list.py"], "command": "python3 list.py"})
+
+  To sort a list, use the .sort() or sorted() functions. 
+
+@[Try adding, accessing, and removing elements from this list!]({"stubs": ["list_sort.py"], "command": "python3 list_sort.py"})
 
 
   Dictionaries are Python's answer to Switch Statements. The logic of a dictionary is to return a value based on an input value / key. In other languages, Switch 
