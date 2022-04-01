@@ -13,6 +13,8 @@
     
     example_list_4 = [1, 'b', 3]
 
+  To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. 
+
   Dictionaries are Python's answer to Switch Statements. The logic of a dictionary is to return a value based on an input value / key. In other languages, Switch 
   Statements are used to accomplish similar logic. Here are a couple examples of dictionaries:
   
