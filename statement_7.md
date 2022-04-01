@@ -15,6 +15,9 @@
 
   To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. 
 
+@[Try adding, accessing, and removing elements from this list!]({"stubs": ["list.py"], "command": "python3 list.py"})
+
+
   Dictionaries are Python's answer to Switch Statements. The logic of a dictionary is to return a value based on an input value / key. In other languages, Switch 
   Statements are used to accomplish similar logic. Here are a couple examples of dictionaries:
   
