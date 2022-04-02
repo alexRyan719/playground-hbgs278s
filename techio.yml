@@ -18,6 +18,9 @@ plan:
   statement: statement_7.md
 - title: Example Algorithms
   statement: statement_8.md
+- title: Debugging
+  statement: statement_9.md
+  
   
 projects:
   python:
