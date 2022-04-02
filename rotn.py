@@ -1,4 +1,4 @@
-def rot13(plain_text, n):
+def rot_n(plain_text, n):
   alphabet_dict  = {
     'a':1,'b':2,'c':3,'d':4,'e':5,'f':6,'g':7,'h':8,'i':9,'j':10
     ,'k':11,'l':12,'m':13,'n':14,'o':15,'p':16,'q':17,'r':18
@@ -35,7 +35,7 @@ def rot13(plain_text, n):
     
   return cipher_text
 
-print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`", 14))
-print(rot13("Ifmmp xpsme!@#$%^&*()_+-=/\\<>?,.~`",-1))
-print(rot13("Hello world!@#$%^&*()_+-=/\\<>?,.~`",12))
-print(rot13("Tqxxa iadxp!@#$%^&*()_+-=/\\<>?,.~`",14))
+print(rot_n("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`", 14))
+print(rot_n("Ifmmp xpsme!@#$%^&*()_+-=/\\<>?,.~`",-1))
+print(rot_n("Hello world!@#$%^&*()_+-=/\\<>?,.~`",12))
+print(rot_n("Tqxxa iadxp!@#$%^&*()_+-=/\\<>?,.~`",14))
