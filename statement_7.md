@@ -41,3 +41,8 @@
 
 @[Try adding, accessing, and removing elements from this list!]({"stubs": ["dict.py"], "command": "python3 dict.py"})
 
+# Lists of Lists
+
+# Binary Search Trees
+
+# Graphs
