@@ -1,7 +1,9 @@
 title: Beginner Python Concepts
 plan:
-- title: Hello World
+- title: Intro
   statement: statement.md
+- title: Hello World
+  statement: statement_1.md
 - title: Comments
   statement: statement_2.md
 - title: Primitive Variables
