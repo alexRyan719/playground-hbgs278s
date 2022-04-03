@@ -1,6 +1,4 @@
-# For a video of the creation of this playground, visit YouTube at: https://www.youtube.com/watch?v=X8Vu-nEtMVA
 
-# For the second part video of this playground, visit YouTube here: https://www.youtube.com/watch?v=hCZ4EUrBJC4
 
 @[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 universe.py"})
 
