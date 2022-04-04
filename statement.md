@@ -23,12 +23,13 @@ data. That's it. We've come so far as to be able to represent just about anythin
 
 # Live Python Examples
 
-Sometimes it's easier to see the concepts done in real time. To see some Python in action, check out my Clash of Code playlist: 
+Sometimes it's easier to see the concepts done in real time. To see some Python in action, check out my Twitch (algore719) and YouTube Clash of Code playlist: 
+# https://www.twitch.tv/algore719
 # https://www.youtube.com/playlist?list=PLrUDqFPKLyT3cflyYoQSKsLulJlBF-FDW
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this via Twitch and saved the videos via YouTube. You can follow 
 along with the videos below. If you have any questions, ask the CodinGame community through their world chat! You can also shoot me questions on my Twitch
-streams, commenting on my YouTube videos, or my Twitter (links are in my bio). 
+streams, commenting on my YouTube videos, or my Twitter (Twitter and Codepen links are in my bio). 
 
 # Solidify Your Understanding by Creating Your Own Playground!
 
