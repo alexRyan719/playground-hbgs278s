@@ -18,7 +18,7 @@ Now, with computers, you have to tell them EXACTLY what to do and how to do it. 
 and crash. If the bathroom was occupied, they would crash. If you had too much stuff in the travel bag, they would keep filling it and crash. If you didn't 
 tell them where the post office is, they would wander and probably crash. 
 
-These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, moving, or saving
+These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, calculating, or saving
 data. That's it. We've come so far as to be able to represent just about anything as data.
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this on via Twitch and saved the videos via YouTube. You can follow 
