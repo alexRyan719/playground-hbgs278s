@@ -1,11 +1,19 @@
-Debugging
-    One of the most frustrating things about learning a new coding language is the debugging.
+# Debugging
+
+One of the most frustrating things about learning a new coding language is the debugging. Debugging is the removal of flaws (bugs) in your code. There are a 
+couple ways to categorize bugs. 
     
-Syntax Errors
+# Syntax Errors
+
+The more obvious bugs are known as Syntax Errors. These happen whenever you misspell something or leave something out. 
 
 
-Logic Errors
-    Sometimes, it's not even a question of if you typed something incorrectly. It may be a question of if you're understanding the problem correctly. 
+
+
+# Logic Errors
+
+Another type of bug is a Logic Error. These are harder to detect as they don't usually affect your code being able to run. These errors are more with your 
+process for the task you're trying to do (aka algorithm). 
     
     
 PEMDOS
