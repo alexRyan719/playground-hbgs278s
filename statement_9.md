@@ -20,10 +20,13 @@ The first few lines show an index out of range error. This is pretty common in c
 
 @[Try to fix the code!]({"stubs": ["debug_2.py"], "command": "python3 debug_2.py"})
    
-    
-PEMDOS
-    The order of operations is important for a few reasons. First, you should be using the correct order of operations to adhere to the standard that the rest
-    of the world is (hopefully) following. That not only benefits others trying to use your code / logic / work, but also to you by saving your time on guesswork.
-    If you don't need to worry about if you're doing the steps in the same order as others, then you can focus on other reasons your coding isn't working as expected.
+Notice that not only are you not finding the sum of all those numbers added together, you're also mulitplying by 0! 
+
+Another thing to be aware of is PEMDAS (the order of operations in math).
+
+
+# PEMDAS - Parenthesis Exponent Multiply Divide Add Subtract
+
+If you think that your bug is due to math not being done in the correct order, you can separate out pieces of your equation with parenthesis. 
     
    
