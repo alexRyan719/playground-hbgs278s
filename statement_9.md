@@ -7,7 +7,7 @@ couple ways to categorize bugs.
 
 The more obvious bugs are known as Syntax Errors. These happen whenever you misspell something or leave something out. 
 
-@[Try to fix the code!]({" stubs": ["debug.py"], "command": "python3 debug.py"})
+@[Try to fix the code!]({"stubs": ["debug.py"], "command": "python3 debug.py"})
 
 
 
@@ -16,7 +16,7 @@ The more obvious bugs are known as Syntax Errors. These happen whenever you miss
 Another type of bug is a Logic Error. These are harder to detect as they don't usually affect your code being able to run. These errors are more with your 
 process for the task you're trying to do (aka algorithm). 
 
-@[Try to fix the code!]({" stubs": ["debug_2.py"], "command": "python3 debug_2.py"})
+@[Try to fix the code!]({"stubs": ["debug_2.py"], "command": "python3 debug_2.py"})
    
     
 PEMDOS
