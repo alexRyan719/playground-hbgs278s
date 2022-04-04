@@ -10,7 +10,7 @@ either style of loop. You can also use recursion.
 
 Iterate through every char in a string
 
-@[]({"stubs": ["loops.py"], "command": "python3 loops.py"})
+@[Try changing the string!]({"stubs": ["loops.py"], "command": "python3 loops.py"})
 
 Indexes are used to keep track of what we're working with for
 each iteration. With while loops, you have to manually change
@@ -19,13 +19,13 @@ terminating condition is never met. IE the index never changes,
 a count never changes, or whatever condition we decide for the 
 loop. 
      
-@[Try adjusting the index]({"stubs": ["loops_2.py"], "command": "python3 loops.py"})
+@[Try adjusting the index!]({"stubs": ["loops_2.py"], "command": "python3 loops.py"})
 
 In other languages, there are do while loops. However,
 Python doesn't use them without some extra effort. 
 
 You can also use the range() function to set a start, stop, and step for your for loops. This is similar to the start, stop, and step of string slicing.
 
-@[Try changing n]({"stubs": ["loops_3.py"], "command": "python3 loops_3.py"})
+@[Try changing n!]({"stubs": ["loops_3.py"], "command": "python3 loops_3.py"})
 
    
