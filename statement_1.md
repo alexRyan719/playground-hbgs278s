@@ -6,7 +6,7 @@
 
 
    This is the classic "Hello World" program in Python. This will 
-   print whatever String (array of chars) you have between the single quotes (' ') or double quotes (" ")
+   print whatever String (array of chars) you have between the single (' ') or double quotes (" ")
         
         print('Hello World!')
 
