@@ -9,12 +9,21 @@ to. There is no thinking / interpreting / assuming with computers. If you make a
 
 # Some Perspective
 
-Think about any mundane task. This could be going upstairs, making a peanut butter & jelly sandwich, or even driving to the post office. When you describe how to
+Think about any mundane task. This could be going upstairs, packing a bag for a vacation, or even driving to the post office. When you describe how to
 do these tasks to other people, you can skip over what we consider "common sense." If your bathroom is upstairs and your guest asks to use it, you just tell them
 it's upstairs. Maybe you tell them to jiggle the toilet handle if it sticks or it's the second door on the right. However, you don't have to tell them things
-like "watch out for my dog" or "you might have to open the bathroom door if it's closed." 
+like "watch out for my dog" or "if the door is closed, there might be someone in it already." 
 
+Now, with computers, you have to tell them EXACTLY what to do and how to do it. If you don't tell them to watch out for your dog, they would encounter the dog 
+and crash. If the bathroom was occupied, they would crash. If you had too much stuff in the travel bag, they would keep filling it and crash. If you didn't 
+tell them where the post office is, they would wander and probably crash. 
 
+These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, moving, or saving
+data. That's it. We've come so far as to be able to represent just about anything as data.
+
+For anyone interested in making their own CodinGame Playground, I streamed the making of this on via Twitch and saved the videos via YouTube. You can follow 
+along with the videos below. If you have any questions, ask the CodinGame community through their world chat! You can also shoot me questions on my Twitch
+streams, commenting on my YouTube videos, or my Twitter. 
 
 # For a video of the creation of this playground, visit YouTube at: https://www.youtube.com/watch?v=X8Vu-nEtMVA
 
