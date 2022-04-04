@@ -15,7 +15,9 @@ The more obvious bugs are known as Syntax Errors. These happen whenever you miss
 
 Another type of bug is a Logic Error. These are harder to detect as they don't usually affect your code being able to run. These errors are more with your 
 process for the task you're trying to do (aka algorithm). 
-    
+
+@[Try to fix the code!]({" stubs": ["debug_2.py"], "command": "python3 debug_2.py"})
+   
     
 PEMDOS
     The order of operations is important for a few reasons. First, you should be using the correct order of operations to adhere to the standard that the rest
