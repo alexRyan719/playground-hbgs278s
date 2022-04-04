@@ -7,6 +7,7 @@ couple ways to categorize bugs.
 
 The more obvious bugs are known as Syntax Errors. These happen whenever you misspell something or leave something out. 
 
+@[Try to fix the code!]({" stubs": ["debug.py"], "command": "python3 debug.py"})
 
 
 
