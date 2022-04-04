@@ -39,10 +39,11 @@
 
   Dictionaries are created in a similar way to lists. 
 
-@[Try adding, accessing, and removing elements from this list!]({"stubs": ["dict.py"], "command": "python3 dict.py"})
+@[Try adding, accessing, and removing elements from this dictionary!]({"stubs": ["dict.py"], "command": "python3 dict.py"})
 
 # Lists of Lists
 
-# Binary Search Trees
+2D Arrays are commonly used in coding. In Python, this can be thought of as a list of lists. 
 
-# Graphs
+@[Try accessing and setting different values in the list of lists!]({"stubs": ["list_of_lists.py"], "command": "python3 list_of_lists.py"})
+
