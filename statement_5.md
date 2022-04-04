@@ -12,10 +12,6 @@ Iterate through every char in a string
 
 @[Try em out here!]({"stubs": ["loops.py"], "command": "python3 loops.py"})
 
-    test_str = "Hello World!"
-    for char in test_str:
-        print(char)
-
 Indexes are used to keep track of what we're working with for
 each iteration. With while loops, you have to manually change
 the index. Be careful, infinite loops are created when a 
@@ -23,11 +19,6 @@ terminating condition is never met. IE the index never changes,
 a count never changes, or whatever condition we decide for the 
 loop. 
      
-    index = 0
-    while index < len(test_str):
-      print(test_str[index])
-      index += 1
-
 @[Try em out here!]({"stubs": ["loops_2.py"], "command": "python3 loops.py"})
 
 In other languages, there are do while loops. However,
