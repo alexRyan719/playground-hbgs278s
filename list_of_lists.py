@@ -18,7 +18,7 @@ x = 0
 y = 0
 
 # Try adjusting the coordinates by adjusting x and y. 
-print(my_list_of_lists[y][x+n])
+print(my_list_of_lists[y][x])
 
 n = 3
 n_2 = 2
