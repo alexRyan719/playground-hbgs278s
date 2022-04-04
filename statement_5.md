@@ -26,6 +26,6 @@ Python doesn't use them without some extra effort.
 
 You can also use the range() function to set a start, stop, and step for your for loops. This is similar to the start, stop, and step of string slicing.
 
-@[Try em out here!]({"stubs": ["loops_2.py"], "command": "python3 loops_2.py"})
+@[Try em out here!]({"stubs": ["loops_3.py"], "command": "python3 loops_3.py"})
 
    
