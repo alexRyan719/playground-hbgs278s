@@ -21,6 +21,11 @@ tell them where the post office is, they would wander and probably crash.
 These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, calculating, or saving
 data. That's it. We've come so far as to be able to represent just about anything as data.
 
+# Live Python Examples
+
+To see me demonstrate Python concepts through CodinGame Clashes of Code, check out my Twitch CodinGame Clashing playlist on YouTube at:
+# https://www.youtube.com/playlist?list=PLrUDqFPKLyT3cflyYoQSKsLulJlBF-FDW
+
 For anyone interested in making their own CodinGame Playground, I streamed the making of this via Twitch and saved the videos via YouTube. You can follow 
 along with the videos below. If you have any questions, ask the CodinGame community through their world chat! You can also shoot me questions on my Twitch
 streams, commenting on my YouTube videos, or my Twitter (links are in my bio). 
