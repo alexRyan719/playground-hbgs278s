@@ -23,7 +23,7 @@ data. That's it. We've come so far as to be able to represent just about anythin
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this on via Twitch and saved the videos via YouTube. You can follow 
 along with the videos below. If you have any questions, ask the CodinGame community through their world chat! You can also shoot me questions on my Twitch
-streams, commenting on my YouTube videos, or my Twitter. 
+streams, commenting on my YouTube videos, or my Twitter (links are in my bio). 
 
 # For a video of the creation of this playground, visit YouTube at: https://www.youtube.com/watch?v=X8Vu-nEtMVA
 
