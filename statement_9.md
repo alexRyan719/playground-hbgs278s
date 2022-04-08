@@ -29,4 +29,8 @@ Another thing to be aware of is PEMDAS (the order of operations in math).
 
 If you think that your bug is due to math not being done in the correct order, you can separate out pieces of your equation with parenthesis. 
     
-   
+# Rubber Ducks
+
+An important concept in Computer Science is the Rubber Duck. Now, this can really be any inanimate object (or pet even), as long as it doesn't respond. The 
+idea is to explain what your code is doing. Also, try explaining it different ways from different angles / points of view. Eventually, the hope is that you 
+will discover the flaws / bugs in your code this way. In college, we used to bring real rubber ducks to the CS lab. Nowadays, I use a red octopus, or Roctopus!
