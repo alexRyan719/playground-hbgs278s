@@ -22,6 +22,8 @@
     if new_index > 26:
         new_index %= 26
 
+# Rot N
+
    13 is the most common value, as it allows for Symmetric Encryption. However, it's fairly simple to change this algorithm to accept any value for the rotation. To
    account for larger values, we need to change the index modification to the modulo style. 
    
