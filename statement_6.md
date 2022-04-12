@@ -4,7 +4,7 @@ To demonstrate recursion, we need to define a function. The concept is where we 
 write infinite loops with recursion. The condition needing to be met is known as the Base Case. Once we reach that Base Case, we return all the data we've 
 calculated. 
 
-@[Try it out here!]({"stubs": ["recursion.py"], "command": "python3 recursion.py"})
+@[Try it out here!]({"stubs": ["py_files/recursion.py"], "command": "python3 py_files/recursion.py"})
 
 
     
