@@ -1,7 +1,7 @@
 title: Beginner Python Concepts
 plan:
 - title: Intro
-  statement: statement.md
+  statement: intro.md
 - title: Hello World
   statement: statement_1.md
 - title: Comments
