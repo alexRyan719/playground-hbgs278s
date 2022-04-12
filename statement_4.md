@@ -10,5 +10,5 @@ If and elif statements will execute if the expression equates to True or 1. If t
 
 You can also chain conditions in your if, elif, else statement blocks. This can be done with and, or, not, and xor. 
 
-@[Try changing the conditions ]({"stubs": ["py_files/control_flow_3.py"], "command": "python3 py_files/control_flow_3.py"})
+@[Try changing the conditions]({"stubs": ["py_files/control_flow_3.py"], "command": "python3 py_files/control_flow_3.py"})
 
