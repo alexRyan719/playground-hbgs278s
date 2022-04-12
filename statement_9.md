@@ -7,7 +7,7 @@ couple ways to categorize bugs.
 
 The more obvious bugs are known as Syntax Errors. These happen whenever you misspell something or leave something out. 
 
-@[Try to fix the code!]({"stubs": ["debug.py"], "command": "python3 debug.py"})
+@[Try to fix the code!]({"stubs": ["py_files/debug.py"], "command": "python3 py_files/debug.py"})
 
 
 
@@ -18,7 +18,7 @@ process for the task you're trying to do (aka algorithm).
 
 The first few lines show an index out of range error. This is pretty common in coding as the index usually starts at 0. 
 
-@[Try to fix the code!]({"stubs": ["debug_2.py"], "command": "python3 debug_2.py"})
+@[Try to fix the code!]({"stubs": ["py_files/debug_2.py"], "command": "python3 py_files/debug_2.py"})
    
 Notice that not only are you not finding the sum of all those numbers added together, you're also mulitplying by 0! 
 
