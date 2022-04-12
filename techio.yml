@@ -21,7 +21,7 @@ plan:
 - title: Example Algorithms
   statement: example_algorithms.md
 - title: Debugging
-  statement: debigging.md
+  statement: debugging.md
 - title: Sorting Algorithms
   statement: sorting.md 
   
