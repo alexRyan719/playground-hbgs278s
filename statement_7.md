@@ -15,11 +15,11 @@
 
   To add elements to a list, use the .append() function. To access specific items in a list, you can use an index. 
 
-@[Try adding, accessing, and removing elements from this list!]({"stubs": ["list.py"], "command": "python3 list.py"})
+@[Try adding, accessing, and removing elements from this list!]({"stubs": ["py_files/list.py"], "command": "python3 py_files/list.py"})
 
   To sort a list, use the .sort() or sorted() functions. 
 
-@[Try adding, accessing, and removing elements from this list!]({"stubs": ["list_sort.py"], "command": "python3 list_sort.py"})
+@[Try adding, accessing, and removing elements from this list!]({"stubs": ["py_files/list_sort.py"], "command": "python3 py_files/list_sort.py"})
 
 
   Dictionaries are Python's answer to Switch Statements. The logic of a dictionary is to return a value based on an input value / key. In other languages, Switch 
@@ -39,11 +39,11 @@
 
   Dictionaries are created in a similar way to lists. 
 
-@[Try adding, accessing, and removing elements from this dictionary!]({"stubs": ["dict.py"], "command": "python3 dict.py"})
+@[Try adding, accessing, and removing elements from this dictionary!]({"stubs": ["py_files/dict.py"], "command": "python3 py_files/dict.py"})
 
 # Lists of Lists
 
 2D Arrays are commonly used in coding. In Python, this can be thought of as a list of lists. 
 
-@[Try accessing and setting different values in the list of lists!]({"stubs": ["list_of_lists.py"], "command": "python3 list_of_lists.py"})
+@[Try accessing and setting different values in the list of lists!]({"stubs": ["py_files/list_of_lists.py"], "command": "python3 py_files/list_of_lists.py"})
 
