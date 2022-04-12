@@ -1,6 +1,6 @@
 
 
-@[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 universe.py"})
+@[Try out any of the snippets in this here window!]({"stubs": ["universe.py"], "command": "python3 py_files/universe.py"})
 
 # Hello World
 
