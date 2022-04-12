@@ -22,6 +22,8 @@ plan:
   statement: statement_8.md
 - title: Debugging
   statement: statement_9.md
+- title: Sorting Algorithms
+  statement: statement_10.md 
   
   
 projects:
