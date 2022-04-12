@@ -14,4 +14,4 @@
    <li>Bool / Boolean = True / False</li>
    </ul> 
   
-@[To see what type your variable is, use the built-in type() function.]({"stubs": ["pv.py"], "command": "python3 pv.py"})
+@[To see what type your variable is, use the built-in type() function.]({"stubs": ["py_files/pv.py"], "command": "python3 py_files/pv.py"})
