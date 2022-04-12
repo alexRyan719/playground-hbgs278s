@@ -3,27 +3,27 @@ plan:
 - title: Intro
   statement: intro.md
 - title: Hello World
-  statement: statement_1.md
+  statement: hello_world.md
 - title: Comments
-  statement: statement_2.md
+  statement: comments.md
 - title: Primitive Variables
-  statement: statement_3.md
+  statement: primitive_variables.md
 - title: Functions
-  statement: statement_3_b.md
+  statement: functions.md
 - title: Control Flow
-  statement: statement_4.md
+  statement: control_flow.md
 - title: Loops
-  statement: statement_5.md
+  statement: loops.md
 - title: Recursion
-  statement: statement_6.md
+  statement: recursion.md
 - title: Data Structures
-  statement: statement_7.md
+  statement: data_structures.md
 - title: Example Algorithms
-  statement: statement_8.md
+  statement: example_algorithms.md
 - title: Debugging
-  statement: statement_9.md
+  statement: debigging.md
 - title: Sorting Algorithms
-  statement: statement_10.md 
+  statement: sorting.md 
   
   
 projects:
