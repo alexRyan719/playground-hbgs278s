@@ -24,7 +24,8 @@ plan:
   statement: debugging.md
 - title: Sorting Algorithms
   statement: sorting.md 
-  
+- title: Examples for Dayz
+  statement: examples.md 
   
 projects:
   python:
