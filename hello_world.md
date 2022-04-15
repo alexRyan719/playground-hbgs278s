@@ -1,6 +1,5 @@
 
 
-@[Try out any of the snippets in this here window!]({"stubs": ["py_files/universe.py"], "command": "python3 py_files/universe.py"})
 
 # Hello World
 
@@ -8,7 +7,7 @@
    This is the classic "Hello World" program in Python. This will 
    print whatever String (array of chars / group of letters) you have between the single (' ') or double quotes (" ")
         
-        print('Hello World!')
+@[Hello World!]({"stubs": ["py_files/universe.py"], "command": "python3 py_files/universe.py"})
 
    Being able to print output is very important in coding. You can use print statements to see the values of variables, if sections of code are being executed,
    or the results of your algorithm.
