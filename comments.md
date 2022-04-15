@@ -26,3 +26,11 @@
     
     # It gets a weird value here, still not sure why?
 
+Disabling parts of your code
+
+    Sometimes, you just want a part of your code to stop temporarily. I often find myself doing this when trying to optimize my code or when trying to single
+    out a corner case in my code. 
+
+    @[Try "turning pieces on and off again"!]({"stubs": ["py_files/comments_cont.py"], "command": "python3 py_files/comments_cont.py"})
+
+
