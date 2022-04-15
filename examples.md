@@ -10,3 +10,8 @@ So, this bit of code here:
 Can be simplified with using loops, like so:
 
 @[Much more compact code]({"stubs": ["py_files/loop_example_2.py"], "command": "python3 py_files/loop_example_2.py"})
+
+Another nifty thing you can accomplish with a bit of loop logic and Python keyword shortcuts:
+
+@[This is some basic pattern matching]({"stubs": ["py_files/loop_example_3.py"], "command": "python3 py_files/loop_example_3.py"})
+
