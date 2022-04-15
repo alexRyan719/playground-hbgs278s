@@ -9,4 +9,4 @@ So, this bit of code here:
 
 Can be simplified with using loops, like so:
 
-@[This is written out, verbatum, what is going on in loop logic]({"stubs": ["py_files/loop_example_2.py"], "command": "python3 py_files/loop_example_2.py"})
+@[Much more compact code]({"stubs": ["py_files/loop_example_2.py"], "command": "python3 py_files/loop_example_2.py"})
