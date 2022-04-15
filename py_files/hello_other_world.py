@@ -10,7 +10,7 @@ print("Print every other letter")
         
 print(test_string[::2])
 
-print(Reverse the string)
+print("Reverse the string")
         
 print(test_string[::-1])
 
