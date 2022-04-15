@@ -3,7 +3,7 @@ print("Hello! " * 3)
         
 # print("For the rest of the examples, let's declare a String variable to use")
 
-# test_string = "Hello World, but now our new string!"
+test_string = "Hello World, but now our new string!"
 
 print("Try slicing different parts of the string")
 
