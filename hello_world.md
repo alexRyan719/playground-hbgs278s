@@ -51,6 +51,6 @@
         print(test_string[-10:-3])
         
 
-@[Or you can try out any of the snippets in this here other window!]({"stubs": ["py_files/universe.py"], "command": "python3 py_files/universe.py"})
+@[Or you can try out any of the snippets in this here other window!]({"stubs": ["py_files/hello_other_world.py"], "command": "python3 py_files/hello_other_world.py"})
 
 
