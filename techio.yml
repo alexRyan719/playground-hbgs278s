@@ -16,6 +16,8 @@ plan:
   statement: loops.md
 - title: Recursion
   statement: recursion.md
+- title: Examples of Loops
+  statement: examples.md
 - title: Data Structures
   statement: data_structures.md
 - title: Example Algorithms
@@ -24,8 +26,7 @@ plan:
   statement: debugging.md
 - title: Sorting Algorithms
   statement: sorting.md 
-- title: Examples for Dayz
-  statement: examples.md 
+ 
   
 projects:
   python:
