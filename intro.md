@@ -27,6 +27,10 @@ Sometimes it's easier to see the concepts done in real time. To see some Python 
 # https://www.twitch.tv/algore719
 # https://www.youtube.com/playlist?list=PLrUDqFPKLyT3cflyYoQSKsLulJlBF-FDW
 
+# My Learn Python Playlist on YouTube
+
+# https://youtu.be/X8Vu-nEtMVA
+
 # Solidify Your Understanding by Creating Your Own Playground!
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this via Twitch and saved the videos via YouTube. You can follow 
