@@ -28,4 +28,8 @@ You can also use the range() function to set a start, stop, and step for your fo
 
 @[Try changing n!]({"stubs": ["py_files/loops_3.py"], "command": "python3 py_files/loops_3.py"})
 
+Here is a nifty way to demonstrate Multiplication and Division as loops of Addition and Subtraction!
+
+@[Try me!]({"stubs": ["py_files/loops_4.py"], "command": "python3 py_files/loops_4.py"})
+
    
