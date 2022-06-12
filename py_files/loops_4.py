@@ -11,9 +11,11 @@ print(mult_ans)
 # Division
 to_div = 50
 div_times = 5
-div_ans = to_div
+div_ans = div_times
+div_count = 0
 
-for num_d in range(1,div_times):
-    div_ans -= to_div
+while div_ans <= to_div:
+    div_ans += div_times
+    div_count += 1
 
-print(div_ans)
+print(div_count)
