@@ -11,7 +11,7 @@ print(mult_ans)
 # Division
 to_div = 50
 div_times = 5
-div_ans = to_mult
+div_ans = to_div
 
 for num_d in range(1,div_times):
     div_ans -= to_div
