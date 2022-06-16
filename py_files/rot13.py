@@ -27,12 +27,11 @@ def rot13(plain_text):
             cipher_text += number_dict[new_index].upper()
         else:
             cipher_text += number_dict[new_index]
-        else:
-          cipher_text += char
+        
         capitalized = False
     
     return cipher_text
 
-#print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`"))
-#print(rot13("Hello world!@#$%^&*()_+-=/\\<>?,.~`"))
+print(rot13("Uryyb jbeyq!@#$%^&*()_+-=/\\<>?,.~`"))
+print(rot13("Hello world!@#$%^&*()_+-=/\\<>?,.~`"))
       
