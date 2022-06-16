@@ -8,8 +8,6 @@
  away. 13 is the classic beginning number for a rotation encryption algorithm due to the nature of being able to decrypt the cipher text simply by encrypting the
  cipher text again with the same ROT13 algorithm. This is also known as Symmetric Encryption.
 
-<!-- @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"}) -->
-
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
 
   The concept of a circular array is demonstrated with these lines:
