@@ -13,6 +13,8 @@
   code stub and it functions as expected. You will need to completely overwrite the second code stub's code with this first one. Also, apologies for the messy
   spacing and this has since been fixed. 
 
+  Click "Reset Code" to get the original code example back.
+
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
 
   The concept of a circular array is demonstrated with these lines:
