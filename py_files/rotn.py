@@ -10,6 +10,7 @@ def rot_n(plain_text, n):
     ,19:'s',20:'t',21:'u',22:'v',23:'w',24:'x',25:'y',26:'z'
   }
 
+  found = False
   cipher_text = ""
   new_index = 0
   capitalized = False
@@ -20,18 +21,20 @@ def rot_n(plain_text, n):
       capitalized = True
     if char.lower() in alphabet_dict:      
       new_index = int(alphabet_dict[char.lower()]) + n
+      found = True
       if new_index > 26:
         new_index %= 26
       if new_index < 1:
         new_index %= 26
         new_index += 26
-      if capitalized:
+      if capitalized and found:
         cipher_text += number_dict[new_index].upper()
-      else:
+      elif found:
         cipher_text += number_dict[new_index]
-    else:
-      cipher_text += char
+      else:
+        cipher_text += char
     capitalized = False
+    found = False
     
   return cipher_text
 
