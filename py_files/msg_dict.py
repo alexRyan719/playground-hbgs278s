@@ -1,5 +1,5 @@
 msg_dict = {
-  1:"Nice weather we're having!", 2:"Careful warrior...", 3:"Welcome to my blacksmith shop!", -1:"Watch it there..."  
+  1:"Nice weather we're having!", 2:"Careful warrior...", 3:"Welcome to my blacksmith shop!", -1:"Watch it there...", "halloween":, "christmas":,"valentines":  
 }
 
 def show_all_msg():
@@ -7,3 +7,7 @@ def show_all_msg():
     print(msg_dict(num))
           
 show_all_msg()
+
+
+
+
