@@ -1,4 +1,3 @@
-print("hallo msg")
 
 def select_message_code():
   
