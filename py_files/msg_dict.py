@@ -4,6 +4,6 @@ msg_dict = {
 
 def show_all_msg():
   for num in msg_dict:
-    print(msg_dict(num)
+    print(msg_dict(num))
           
 show_all_msg()
