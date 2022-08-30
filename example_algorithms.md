@@ -2,8 +2,7 @@
 
  Here are some example algorithms to see these Python concepts in use.  
  
-# BUG BOUNTY ----------------------------------------------------------------------------------------------------------------------------------------------------
-
+# BUG BOUNTY ---------------------------------------------------------------------------------------------------------------------
  There isn't any monetary reward, BUT I will cite you for the fix here in the playground! 
  
 # ROT13
@@ -19,7 +18,7 @@
 
 # Click "Reset Code" to get the original code example back.
 
-# END OF BUG BOUNTY ---------------------------------------------------------------------------------------------------------------------------------------------
+# END OF BUG BOUNTY -------------------------------------------------------------------------------------------------------------
 
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
 
