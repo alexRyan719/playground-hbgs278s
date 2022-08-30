@@ -1,4 +1,4 @@
-my_str = "Hello, ThIs Is A mUcH lOnGeR sTrInG"
+my_str = "My String!"
 upper_case_count = 0
 
 for char in my_str:
