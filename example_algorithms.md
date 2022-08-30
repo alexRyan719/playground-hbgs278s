@@ -19,7 +19,7 @@
 
 # Click "Reset Code" to get the original code example back.
 
-# BUG BOUNTY 
+# END OF BUG BOUNTY 
 
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
 
