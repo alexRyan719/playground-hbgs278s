@@ -26,6 +26,12 @@ Python doesn't use them without some extra effort.
 
 You can also use the range() function to set a start, stop, and step for your for loops. This is similar to the start, stop, and step of string slicing.
 
+Start is the initial value that the loop range will start at.
+
+Stop is the end limit that the loop value will reach in the range.
+
+Step is the amount that the loop will count by. 
+
 @[Try changing n!]({"stubs": ["py_files/loops_3.py"], "command": "python3 py_files/loops_3.py"})
 
 Here is a nifty way to demonstrate Multiplication and Division as loops of Addition and Subtraction!
