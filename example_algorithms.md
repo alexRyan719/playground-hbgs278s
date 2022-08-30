@@ -2,6 +2,10 @@
 
  Here are some example algorithms to see these Python concepts in use.  
  
+# BUG BOUNTY 
+
+ There isn't any monetary reward, BUT I will cite you for the fix here in the playground! 
+ 
 # ROT13
 
  ROT13 stands for rotation of 13 values. This means that every character / letter in the plain text will be changed / encrypted to a different character 13 values
@@ -14,6 +18,8 @@
   spacing and this has since been fixed. 
 
 # Click "Reset Code" to get the original code example back.
+
+# BUG BOUNTY 
 
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
 
