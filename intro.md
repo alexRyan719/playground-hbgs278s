@@ -21,7 +21,7 @@ tell them where the post office is, they would wander and probably crash.
 These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, calculating, or saving
 data. That's it. We've come so far as to be able to represent just about anything as data.
 
-# I recommend this video on YouTube: https://www.youtube.com/watch?v=X8Vu-nEtMVA
+# If you get stuck, I recommend the video I made streaming the creation of this playground: https://www.youtube.com/watch?v=X8Vu-nEtMVA
 
 # Live Python Examples
 
@@ -36,8 +36,8 @@ Sometimes it's easier to see the concepts done in real time. To see some Python 
 # Solidify Your Understanding by Creating Your Own Playground!
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this via Twitch and saved the videos via YouTube. You can follow 
-along with the videos below. If you have any questions, ask the CodinGame community through their world chat! You can also shoot me questions on my Twitch
-streams, commenting on my YouTube videos, or my Twitter (Twitter and Codepen links are in my bio). 
+along with the video above and the one below. If you have any questions, ask the CodinGame community through their Discord chat! You can also shoot me questions on my Twitch
+streams, comment on my YouTube videos, or my Twitter (Twitter and Codepen links are in my bio). 
 
 The best way to learn new concepts is to be able to teach said concepts to others. Even if you're just talking to your Rubber Duck, being able to teach the 
 material bodes well for your understanding.  
