@@ -21,6 +21,8 @@ tell them where the post office is, they would wander and probably crash.
 These are exaggerations, as what computers need to do is much simpler as far as tasks go. At the basic level, computers are just locating, calculating, or saving
 data. That's it. We've come so far as to be able to represent just about anything as data.
 
+# I recommend this video on YouTube: https://www.youtube.com/watch?v=X8Vu-nEtMVA
+
 # Live Python Examples
 
 Sometimes it's easier to see the concepts done in real time. To see some Python in action, check out my Twitch (algore719) and YouTube Clash of Code playlist: 
@@ -40,6 +42,6 @@ streams, commenting on my YouTube videos, or my Twitter (Twitter and Codepen lin
 The best way to learn new concepts is to be able to teach said concepts to others. Even if you're just talking to your Rubber Duck, being able to teach the 
 material bodes well for your understanding.  
 
-# For a video of the creation of this playground, visit YouTube at: https://www.youtube.com/watch?v=X8Vu-nEtMVA
+
 
 # For the second part video of this playground, visit YouTube here: https://www.youtube.com/watch?v=hCZ4EUrBJC4
