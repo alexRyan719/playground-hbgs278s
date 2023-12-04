@@ -23,6 +23,8 @@ data. That's it. We've come so far as to be able to represent just about anythin
 
 # My YouTube Channel 
 
+I make educational and gaming videos as A-Rye on YouTube: https://www.youtube.com/channel/UCqfrRoUg5dtY-i5xZrB0ixg
+
 If you get stuck, I recommend the video I made streaming the creation of this playground: https://www.youtube.com/watch?v=X8Vu-nEtMVA
 
 Here is my playlist for learning beginner Python programming: https://youtube.com/playlist?list=PLrUDqFPKLyT0hyTCzZeU9xYRXLTTLpoCk&si=56PujyQydBEsif2w
