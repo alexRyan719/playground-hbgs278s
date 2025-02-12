@@ -33,7 +33,7 @@ Here is my playlist for learning beginner Python programming: https://youtube.co
 
 For anyone interested in making their own CodinGame Playground, I streamed the making of this via Twitch and saved the videos via YouTube. You can follow 
 along with the video above and the one below. If you have any questions, ask the CodinGame community through their Discord chat! You can also shoot me questions on my Twitch
-streams, comment on my YouTube videos. 
+streams or comment on my YouTube videos. 
 
 The best way to learn new concepts is to be able to teach said concepts to others. Even if you're just talking to your Rubber Duck, being able to teach the 
 material bodes well for your understanding.  
