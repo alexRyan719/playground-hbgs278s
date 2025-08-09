@@ -70,7 +70,7 @@ def rot13(plain_text):
         
         capitalized = False
         found = False
-        #print("DEBUG")
+    print("DEBUG")
     
     return cipher_text
 
