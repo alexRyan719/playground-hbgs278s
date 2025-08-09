@@ -1,4 +1,4 @@
-# Example Algorithms
+# Example Algorithms Explained
 
  Here are some example algorithms to see these Python concepts in use.  
  
