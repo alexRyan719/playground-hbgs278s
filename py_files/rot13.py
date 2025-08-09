@@ -10,7 +10,35 @@ def rot13(plain_text):
         ,19:'s',20:'t',21:'u',22:'v',23:'w',24:'x',25:'y',26:'z'
     }
 
+    other_dict{
+        0:'0',1:'1',2:'2',3:'3',4:'4',5:'5',6:'6',7:'7',8:'8',9:'9'
+        ,10:':',11:';',12:'<',13:'=',14:'>',15:'?',16:'@',17:'!',18:'"'
+        ,19:'#',20:'$',21:'%',22:'&',23:'\'',24:'(',25:')'
+        
+    }
+
+    other_other_dict {
+        0:'*',1:'+',2:',',3:'-',4:'.',5:'/'
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     found = False
+    found_2 = False
     cipher_text = ""
     new_index = 0
     capitalized = False
@@ -22,6 +50,11 @@ def rot13(plain_text):
         if char.lower() in alphabet_dict:      
             new_index = int(alphabet_dict[char.lower()]) + 13
             found = True
+        if char.lower() in other_dict:      
+            #new_index = int(alphabet_dict[char.lower()]) + 13
+            found_2 = True
+        
+        # If the new index is larger than 26, wrap around from the beginning
         if new_index > 26:
             new_index %= 26
           
@@ -29,8 +62,16 @@ def rot13(plain_text):
             cipher_text += number_dict[new_index].upper()
         elif found:
             cipher_text += number_dict[new_index]
+        elif found2:
+            print("It's found2")
+            
         else:
-            cipher_text += char
+            if char in other:
+                print(ok)
+            elif char in other_2:
+                print(ok)
+            else:
+                cipher_text += char
         
         capitalized = False
         found = False
