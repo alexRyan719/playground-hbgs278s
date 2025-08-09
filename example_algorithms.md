@@ -20,7 +20,7 @@
 
 # END OF BUG BOUNTY ------------------------------------------------------------------------------
 
-@[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "py_files/python3 rot13.py"})
+@[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "python3 py_files/rot13.py"})
 
   The concept of a circular array is demonstrated with these lines:
   
