@@ -45,11 +45,17 @@ def rot13(plain_text):
     new_char = ' '
   
     for char in plain_text:
+
+        # Check for capitalization and set capitalized accordingly 
         if char.isupper():
             capitalized = True
+
+        # Check if char is in alphabet_dict and assign index if so
         if char.lower() in alphabet_dict:      
             new_index = int(alphabet_dict[char.lower()]) + 13
             found = True
+
+        # If the char is in other_dict, set found_2 to True
         if char.lower() in other_dict:      
             #new_index = int(alphabet_dict[char.lower()]) + 13
             found_2 = True
