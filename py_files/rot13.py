@@ -52,20 +52,25 @@ def rot13(plain_text):
             cipher_text += number_dict[new_index].upper()
         elif found:
             cipher_text += number_dict[new_index]
-        elif found2:
-            print("It's found2")
-            
         else:
-            if char in other:
-                print(ok)
-            elif char in other_2:
-                print(ok)
-            else:
-                cipher_text += char
+            cipher_text += char
+
+
+        
+        # elif found2:
+        #     print("It's found2")
+            
+        # else:
+        #     if char in other:
+        #         print(ok)
+        #     elif char in other_2:
+        #         print(ok)
+        #     else:
+        #         cipher_text += char
         
         capitalized = False
         found = False
-        print("DEBUG")
+        #print("DEBUG")
     
     return cipher_text
 
