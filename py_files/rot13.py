@@ -21,22 +21,6 @@ def rot13(plain_text):
         0:'*',1:'+',2:',',3:'-',4:'.',5:'/'
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     found = False
     found_2 = False
     cipher_text = ""
@@ -81,6 +65,7 @@ def rot13(plain_text):
         
         capitalized = False
         found = False
+        print("DEBUG")
     
     return cipher_text
 
