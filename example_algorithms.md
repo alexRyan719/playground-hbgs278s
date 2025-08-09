@@ -2,8 +2,6 @@
 
  Here are some example algorithms to see these Python concepts in use.  
  
-# BUG BOUNTY ------------------------------------------------------------------------------------------
- There isn't any monetary reward, BUT I will cite you for the fix here in the playground! 
  
 # ROT13
 
@@ -11,14 +9,10 @@
  away. 13 is the classic beginning number for a rotation encryption algorithm due to the nature of being able to decrypt the cipher text simply by encrypting the
  cipher text again with the same ROT13 algorithm. This is also known as Symmetric Encryption.
 
-# Bug In Progress
-  6-16-22 Apologies, but it seems this code stub has a bug. I am looking into it, but there is a workaround! Copy and paste the code from this one into the other 
-  code stub and it functions as expected. You will need to completely overwrite the second code stub's code with this first one. Also, apologies for the messy
-  spacing and this has since been fixed. 
+
 
 # Click "Reset Code" to get the original code example back.
 
-# END OF BUG BOUNTY ------------------------------------------------------------------------------
 
 @[Try it out!]({"stubs": ["py_files/rot13.py"], "command": "python3 py_files/rot13.py"})
 
