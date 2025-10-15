@@ -3,7 +3,7 @@ msg_dict = {
   "h_1":"Very spoooooky weather we're having!",
   "c_1":"Very frostie weather we're having!", 
   "v_1":"Very bubbly weather we're having!",
-  "eZ":"Hasta la vista, baby"
+  "eZ":"Hasta la vista, baby",
   "aB":"Groovy!"
 }
 
