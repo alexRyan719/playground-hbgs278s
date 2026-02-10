@@ -1,0 +1,35 @@
+This is just a Junk Drawer type storage for random thoughts that might fleet. 
+
+Joke for perspective
+
+"""
+One day, a teacher was writing some simple math problems on the board. She wrote 
+the first 9 correctly, but made a mistake on the 10th problem.
+
+The class proceeded to giggle when they saw the error. They were chattering amongst
+themselves about how "teacher made a mistake!" and "Oh wow, so she's not perfect!"
+
+The teacher waited for the class to calm down and then asked. "Can anyone tell me 
+what caused such a commotion?"
+
+A few hands raise up and the teacher calls on a student.
+
+"Teacher, you got a problem wrong!"
+
+The class proceeds to fall apart again into laughter, chattering, and distractions.
+
+"Very good, very good. But do you know why I wrote a problem wrong?"
+
+This caught the class's attention.
+
+"...You meant to write that wrong?"
+
+"Yes, I was proving a point. You see, when people have certain expectations, they 
+are less likely to consider much deeper than a surface understanding of a person. 
+They categorize things about that person as one thing or another without really
+thinking about it.
+
+You all saw me write the wrong answer to a simple math question. You assumes that,
+since I'm a professional, that I'm never wrong at math. This is simply not the case
+for anyone, we all make mistakes."
+"""
